@@ -7,3 +7,7 @@ python -m http.server 8000
 ```
 
 Then visit http://localhost:8000. Three.js is loaded from a CDN. Replace placeholder identity, project links, and contact details.
+
+## Live deployment
+
+- **Frontend:** https://3d-poetfolio-bn7i2cpg9-vijayjangids-projects.vercel.app
